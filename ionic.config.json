@@ -1,0 +1,7 @@
+{
+  "name": "calculadora-viajes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
