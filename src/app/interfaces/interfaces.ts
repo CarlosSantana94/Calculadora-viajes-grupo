@@ -3,11 +3,15 @@ export interface Gasto {
   fecha: Date;
   icono: string;
   valor: number;
+  id: string;
 }
 
 export interface Persona {
   nombre: string;
   foto: string;
+  top: string;
+  id: string;
+  total: number;
 
 }
 
